@@ -1,6 +1,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1337vida&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1337vida&theme=tokyonight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1337vida&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1337vida&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1337vida&theme=tokyonight&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1337vida&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1337vida&theme=tokyonight&utcOffset=1) 
 
 <!--
 **1337vida/1337vida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
